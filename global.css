@@ -1,0 +1,66 @@
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+
+body{
+    
+    background-image: url("./fundo.jpeg");
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    margin: 10px 10px 0px 10px;
+    padding: 10px;
+}
+
+.Dados{
+    margin: 2px 5px 3px 20px;
+    padding: 5px;
+    width: 40%;
+}
+
+.Checkbox-conectado{
+    margin: 2px 5px 15px 20px;
+    padding: 5px;
+    font-size: 0px;
+}
+
+.Botao{
+    margin: 20px 2px 3px 5px;
+    padding: 10px;
+    color: black;
+    border-radius: 20px;
+    width: 100px;
+}
+
+.Conta{
+    margin: 2px 5px 3px 20px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+a{
+    color: rgba(223, 197, 197, 0.726);
+    margin: 20px 5px 3px 20px;
+}
+
+.genero{
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+    font-size: 0px;
+}
+.form {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background: #5f5f775b;
+    border-radius: 20px;
+    border: 1px solid rgba(14, 5, 56, 0.445);
+}
